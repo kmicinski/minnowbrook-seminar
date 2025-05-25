@@ -1,0 +1,24 @@
+$forest-dark: #0b6623;
+$forest-light: #e6f6e6;
+$forest-accent: #007a33;
+
+body { background: $forest-light; }
+a    { color: $forest-accent !important; }
+
+#header_wrap,
+#header_wrap a,
+#header_wrap h1,
+#header_wrap h2,
+#header_wrap h3 { background: $forest-dark !important; color: $forest-light !important; }
+
+table.full-width { width: 100%; }
+table.schedule th { background: $forest-dark; color: $forest-light; padding: 0.6rem; text-align:left; }
+table.schedule td { padding: 0.4rem 0.75rem; }
+
+h1, h2, h3, h4, h5, h6, .site-title {
+  color: $forest-dark;
+}
+
+#header_wrap {
+  background: linear-gradient(to top, #228B22, #2E865F, #1A3C2E) !important;
+}
