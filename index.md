@@ -1,22 +1,21 @@
 ---
 layout: default
-title: Minnowbrook Logic Programming Seminar
+tite:
 ---
 
-This technical seminar is meant to be something like a Dagstuhl
-seminar for a specific perspective on Datalog and its extensions. I
-say “logic programming,” as I think many of us care chiefly about
+#  Minnowbrook Logic Programming Seminar
+## May 25-28, 2025 --- Blue Mountain Lake, NY
+
+This technical seminar was something like a Dagstuhl seminar for a
+specific perspective on Datalog and its extensions. I say “logic
+programming,” as I think many of the attendees care chiefly about
 using logic and declarative methods to solve problems or develop
 beautiful solutions. I have invited many folks who have worked on
-Datalog in particular, but I am most excited about getting a breadth
+Datalog in particular, but I was most excited about getting a breadth
 of folks with orthogonal perspectives and motivations that can
 fruitfully enjoy each others’ company.
 
-We will have technical talks (you give a lecture to us), brainstorming
-sessions/hackathons, and group time, along with outdoor activities /
-games / food / etc. All within the backdrop of Minnowbrook lodge, a
-pictersque 
-
+[Link to full video recording of "Minnowbrook Logic Programming Seminar" on YouTube](https://www.youtube.com/watch?v=3ec9VfMUVa8)
 
 ---
 
@@ -69,5 +68,6 @@ pictersque
 </table>
 
 # Reflection Posts
-Each attendee is encouraged to publish a blog reflection within one month; email Kris a link or markdown file for hosting.
 
+- [Frank McSherry](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
+- [Michael Greenberg](https://blog.greenberg.science/posts/minnowbrook-2025/)

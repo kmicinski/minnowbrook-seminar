@@ -1,6 +1,8 @@
 title: Minnowbrook Logic Programming Seminar
 description: "May 25 to May 28 · Upstate NY"
-url: "https://minnowbrook.org"
+url: "https://kmicinski.com"
+baseurl: "/modern-deduction" 
+description: "Minnowbrook Logic Programming Seminar (May '25)"
 theme: jekyll-theme-slate
 minimal_mistakes_skin: mint
 plugins:
