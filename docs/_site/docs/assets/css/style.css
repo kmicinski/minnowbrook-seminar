@@ -1,0 +1,29 @@
+--
+# sdf
+--
+
+/* 1 ▪ pull in all original Slate rules */
+@import "jekyll-theme-slate";
+
+/* 2 ▪ forest overrides */
+$forest-dark: #0b6623;
+$forest-light: #e6f6e6;
+$forest-accent: #007a33;
+
+body         { background: $forest-light; }
+a            { color: $forest-accent !important; }
+
+#header_wrap,
+#header_wrap a,
+#header_wrap h1,
+#header_wrap h2,
+#header_wrap h3 {
+  background: $forest-dark !important;
+  color: $forest-light !important;
+}
+
+table.full-width { width: 100%; }
+table.schedule th {
+  background: $forest-dark; color: $forest-light; padding: .6rem; text-align:left;
+}
+table.schedule td { padding: .4rem .75rem; }
