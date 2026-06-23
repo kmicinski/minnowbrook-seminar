@@ -19,6 +19,35 @@ fruitfully enjoy each others’ company.
 
 ---
 
+# Participants
+
+The seminar brought together the following researchers and students from across academia, national labs, and industry.
+
+<ul class="participants">
+  <li><span class="name">Kristopher Micinski<span class="tag">Organizer</span></span><span class="affil">Syracuse University</span></li>
+  <li><span class="name">Yihao Sun</span><span class="affil">PhD Student, Syracuse University</span></li>
+  <li><span class="name">Thomas Gilray</span><span class="affil">Professor, Washington State University</span></li>
+  <li><span class="name">Frank McSherry</span></li>
+  <li><span class="name">Oliver Kennedy</span><span class="affil">Professor, University at Buffalo (SUNY)</span></li>
+  <li><span class="name">Yihong Zhang</span><span class="affil">PhD Student, University of Washington</span></li>
+  <li><span class="name">Pratik Pokharel</span><span class="affil">PhD Student, University at Buffalo (SUNY)</span></li>
+  <li><span class="name">Remy Wang</span><span class="affil">Professor, UCLA</span></li>
+  <li><span class="name">Noam Benson-Tilsen</span><span class="affil">PhD Student, Yale University</span></li>
+  <li><span class="name">Philip Zucker</span></li>
+  <li><span class="name">Jason Hemann</span><span class="affil">Professor, Seton Hall University</span></li>
+  <li><span class="name">Arlen Cox</span><span class="affil">Researcher, IDA/CCS</span></li>
+  <li><span class="name">Hangdong Zhao</span><span class="affil">Gray Systems Lab, Microsoft</span></li>
+  <li><span class="name">Denis Bueno</span><span class="affil">Technical Staff, Sandia National Laboratories</span></li>
+  <li><span class="name">Zhenghong Yu</span><span class="affil">PhD Student, University of Wisconsin–Madison</span></li>
+  <li><span class="name">Federico Donato</span><span class="affil">PhD Student, University at Buffalo (SUNY)</span></li>
+  <li><span class="name">Waleed Khan</span><span class="affil">Unaffiliated</span></li>
+  <li><span class="name">David S. Warren</span><span class="affil">Professor Emeritus, Stony Brook University (with Paula Pelletier)</span></li>
+  <li><span class="name">Annie Liu</span><span class="affil">Professor, Stony Brook University</span></li>
+  <li><span class="name">Sowmith Kunapaneni</span><span class="affil">PhD Student, Washington State University</span></li>
+</ul>
+
+---
+
 # Schedule
 
 <table class="schedule full-width">

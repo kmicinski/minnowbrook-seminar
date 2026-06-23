@@ -64,6 +64,57 @@
       overflow-x: auto;
       border-radius: 6px;
     }
+
+    .participants {
+      list-style: none;
+      padding: 0;
+      margin: 1.5rem 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 0.85rem;
+    }
+
+    .participants li {
+      background: #fff;
+      border: 1px solid #e4ece4;
+      border-left: 3px solid #0b6623;
+      border-radius: 10px;
+      padding: 0.85rem 1rem;
+      transition: transform .15s ease, box-shadow .15s ease, border-left-color .15s ease;
+    }
+
+    .participants li:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 22px rgba(11, 102, 35, 0.13);
+      border-left-color: #007a33;
+    }
+
+    .participants .name {
+      display: block;
+      font-weight: 600;
+      color: #0b6623;
+    }
+
+    .participants .affil {
+      display: block;
+      margin-top: 0.15rem;
+      font-size: 0.875rem;
+      color: #5a6b5a;
+    }
+
+    .participants .tag {
+      display: inline-block;
+      margin-left: 0.4rem;
+      padding: 0.08rem 0.5rem;
+      font-size: 0.66rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #007a33;
+      background: #e6f6e6;
+      border-radius: 999px;
+      vertical-align: middle;
+    }
   </style>
 </head>
 <body>
